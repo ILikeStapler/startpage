@@ -1,0 +1,10 @@
+Changes to implement in no particular order
+--------------------------------
+Low res nature video for background, blurred
+
+Links with matching icons to frequently used sites: Youtube, Odin Project, Twitch,
+
+Search bar with selectable Google/DuckDuckGo
+
+Alternate selection screen based on Mario 3 overworld
+

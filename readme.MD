@@ -1,0 +1,1 @@
+Not much to say about this, this is simply an exercise to actually use the HTML and CSS I'm trying to learn in a practical way.
