@@ -2,7 +2,9 @@ Changes to implement in no particular order
 --------------------------------
 Low res nature video for background, blurred
 
-Links with matching icons to frequently used sites: Youtube, Odin Project, Twitch,
+Randomly selected video playing
+
+Links with matching icons to frequently used sites: Youtube, Odin Project, Twitch,　Lnu
 
 Search bar with selectable Google/DuckDuckGo
 
